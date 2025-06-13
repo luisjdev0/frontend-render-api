@@ -7,7 +7,7 @@ El objetivo de esta API es poder renderizar contenido de una manera sencilla y r
 
 1. Clonar el repositorio
 ```bash
-git clone https://github.com/luisjdev2/frontend-render-api.git
+git clone https://github.com/luisjdev0/frontend-render-api.git
 ```
 
 2. Instalar las dependencias
