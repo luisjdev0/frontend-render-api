@@ -16,7 +16,7 @@ cd frontend-render-api
 npm install
 ```
 
-3. Compilar el proyecto de TypeScript a JavaScript con tu compilador preferico como `tsc`, `bun`, entre otros.
+3. Compilar el proyecto de TypeScript a JavaScript con tu compilador preferido como `tsc`, `bun`, entre otros.
 ```bash
 bun build app.ts --target=node --outdir dist --minify
 ```
